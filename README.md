@@ -37,6 +37,7 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pujith-kodippili/Shadow.git)
 
 
 Senku is a simple senku solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
